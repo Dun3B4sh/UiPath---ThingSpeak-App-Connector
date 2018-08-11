@@ -16,7 +16,7 @@ Given below are the 7 activties provided by this package to work with ThingSpeak
   <https://www.mathworks.com/help/thingspeak/writedata.html>
   
 **2.Get Latest Field Entry**\
-This activity can be used to used to retrieve the most recent/latest data upload to a single ThingSpeak field. Reference link provided below.\
+This activity can be used to used to retrieve the most recent/latest data upload to a single ThingSpeak field. Reference link provided below.
 <https://www.mathworks.com/help/thingspeak/readlastfieldentry.html>
 
 **3.Get Latest Channel Feed**\
@@ -39,6 +39,5 @@ This activity is used to read the last status of a channel.Reference link provid
 This activity is used to read status field of a channel.Reference link provided below
 <https://www.mathworks.com/help/thingspeak/readstatus.html>
 
-### Update
-
-
+## Impact & Application
+This package combines the power of two rapidly developing areas of technology; Robotic Process Automation(RPA) and Internet-of-Things(IoT). With automation applied to IoT analysis , there will be a huge impact on creating , managing and extending IoT projects and applications. With many existing UiPath activities to work with json , xml and csv data ,the data from the open IoT ThingSpeak platform can easily be applied and utilized for data analysis and machine learning studies which are also fast growing fields of study. Additionally with commercial/enetrprise editions available for both UiPath as well as ThingSpeak , there is a huge scope for large scale commercial and industrial projects involving IoT , backed and managed by RPA enabling effectively managed , scalable and robust applications/products in a wide array of fields/domains.
