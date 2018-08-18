@@ -1,0 +1,47 @@
+{
+  "channel": {
+    "id": 542740,
+    "name": "IoT Connector",
+    "description": "A demo channel for UiPath app connector.",
+    "latitude": "25.2048",
+    "longitude": "55.2708",
+    "field1": "Field Label 1",
+    "field2": "Field Label 2",
+    "field3": "Field Label 3",
+    "field4": "Field Label 4",
+    "created_at": "2018-07-19T13:48:04Z",
+    "updated_at": "2018-08-18T19:05:58Z",
+    "elevation": "1000",
+    "last_entry_id": 3,
+    "metadata": "Channel data consists of random test values.\r\n"
+  },
+  "feeds": [
+    {
+      "created_at": "2018-08-18T19:29:10Z",
+      "entry_id": 1,
+      "field1": "100",
+      "field2": "550",
+      "field3": "320",
+      "field4": "600",
+      "status": "Normal"
+    },
+    {
+      "created_at": "2018-08-18T19:29:58Z",
+      "entry_id": 2,
+      "field1": "200",
+      "field2": "550",
+      "field3": "800",
+      "field4": "600",
+      "status": "OK"
+    },
+    {
+      "created_at": "2018-08-18T19:30:34Z",
+      "entry_id": 3,
+      "field1": "200",
+      "field2": "400",
+      "field3": "890",
+      "field4": "600",
+      "status": "OK"
+    }
+  ]
+}
