@@ -1,5 +1,0 @@
-C:\Users\Humaid Bin Haroon\documents\visual studio 2015\Projects\ThingSpeak-IoT\ThingSpeak-IoT\bin\Release\ThingSpeak-IoT.dll
-C:\Users\Humaid Bin Haroon\documents\visual studio 2015\Projects\ThingSpeak-IoT\ThingSpeak-IoT\bin\Release\ThingSpeak-IoT.pdb
-C:\Users\Humaid Bin Haroon\documents\visual studio 2015\Projects\ThingSpeak-IoT\ThingSpeak-IoT\obj\Release\ThingSpeak-IoT.csprojResolveAssemblyReference.cache
-C:\Users\Humaid Bin Haroon\documents\visual studio 2015\Projects\ThingSpeak-IoT\ThingSpeak-IoT\obj\Release\ThingSpeak-IoT.dll
-C:\Users\Humaid Bin Haroon\documents\visual studio 2015\Projects\ThingSpeak-IoT\ThingSpeak-IoT\obj\Release\ThingSpeak-IoT.pdb
