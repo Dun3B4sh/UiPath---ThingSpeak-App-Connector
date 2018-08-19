@@ -1,5 +1,9 @@
 # UiPath---ThingSpeak-App-Connector
-This is an IoT package featuring UiPath Activities to read and write data to/from channels of the IoT platform ThingSpeak.
+This is an IoT package featuring UiPath Activities to read and write data to/from channels of the IoT platform ThingSpeak.This repository contains the Visual Studio project , DLL file ,NuGet Package and the video links required for submission in the 'App Connector' category of the UiPath PowerUp Automation hackathon. Additionally, I have also added the workflow I used in the demo video.
+
+## Demo Video Links
+<https://youtu.be/kTLHGmw-D2k>\
+<https://vimeo.com/user88567282>
 
 ## Description 
 ThingSpeak is an open source Internet of Things (IoT) application and API to store and retrieve data from things using the HTTP protocol over the Internet or via a Local Area Network. ThingSpeak enables the creation of sensor logging applications, location tracking applications, and a social network of things with status updates as well as Iot analysis.
