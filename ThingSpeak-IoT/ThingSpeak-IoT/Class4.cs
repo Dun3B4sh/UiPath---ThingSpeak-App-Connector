@@ -157,7 +157,8 @@ namespace ThingSpeak_IoT
                 if (sLine != null)
                     httpResponse = httpResponse + sLine + "\n";
             }
-
+            objStream.Close();
+            objReader.Close();
             Response.Set(context, httpResponse);
         }
     }
