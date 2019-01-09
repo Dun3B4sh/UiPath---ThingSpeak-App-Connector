@@ -9,3 +9,8 @@ C:\Users\Shbh\OneDrive\UiPath-ThingSpeak-Connector\ThingSpeak-IoT\ThingSpeak-IoT
 C:\Users\Shbh\OneDrive\UiPath-ThingSpeak-Connector\ThingSpeak-IoT\ThingSpeak-IoT\obj\Release\ThingSpeak-IoT.csproj.CoreCompileInputs.cache
 C:\Users\Shbh\OneDrive\UiPath-ThingSpeak-Connector\ThingSpeak-IoT\ThingSpeak-IoT\obj\Release\ThingSpeak-IoT.dll
 C:\Users\Shbh\OneDrive\UiPath-ThingSpeak-Connector\ThingSpeak-IoT\ThingSpeak-IoT\obj\Release\ThingSpeak-IoT.pdb
+C:\Users\Humaid Bin Haroon\OneDrive\UiPath-ThingSpeak-Connector\ThingSpeak-IoT\ThingSpeak-IoT\bin\Release\ThingSpeak-IoT.dll
+C:\Users\Humaid Bin Haroon\OneDrive\UiPath-ThingSpeak-Connector\ThingSpeak-IoT\ThingSpeak-IoT\bin\Release\ThingSpeak-IoT.pdb
+C:\Users\Humaid Bin Haroon\OneDrive\UiPath-ThingSpeak-Connector\ThingSpeak-IoT\ThingSpeak-IoT\obj\Release\ThingSpeak-IoT.csproj.CoreCompileInputs.cache
+C:\Users\Humaid Bin Haroon\OneDrive\UiPath-ThingSpeak-Connector\ThingSpeak-IoT\ThingSpeak-IoT\obj\Release\ThingSpeak-IoT.dll
+C:\Users\Humaid Bin Haroon\OneDrive\UiPath-ThingSpeak-Connector\ThingSpeak-IoT\ThingSpeak-IoT\obj\Release\ThingSpeak-IoT.pdb

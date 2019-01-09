@@ -58,7 +58,7 @@ namespace ThingSpeak_IoT
                     httpResponse = httpResponse + sLine + "\n";
             }
             objStream.Close();
-            objReader.Close();
+            //objReader.Close();
             Response.Set(context, httpResponse);
         }
     }
