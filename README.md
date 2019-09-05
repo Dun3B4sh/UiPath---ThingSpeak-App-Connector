@@ -3,7 +3,7 @@ This is an IoT package featuring UiPath Activities to read and write data to/fro
 
 ## Demo Video Links
 
-<https://www.youtube.com/watch?v=kTLHGmw-D2k&t=14s>  
+<https://www.youtube.com/watch?v=kTLHGmw-D2k>  
 <https://vimeo.com/285690669>
 
 ## Description 
