@@ -2,6 +2,8 @@
 This is an IoT package featuring UiPath Activities to read and write data to/from channels of the IoT platform ThingSpeak.This repository contains the Visual Studio project , DLL file ,NuGet Package and the video links required for submission in the 'App Connector' category of the UiPath PowerUp Automation hackathon. Additionally, I have also added the workflow I used in the demo video.
 
 ## Demo Video Links
+
+<https://www.youtube.com/watch?v=kTLHGmw-D2k&t=14s>
 <https://vimeo.com/285690669>
 
 ## Description 
@@ -29,37 +31,37 @@ Lastly , though I have provided an exhaustive list of optional parameters under 
 
 
 
-**1.Update Channel Feed**\
+**1. Update Channel Feed**\
   This activity can be used to write/post data to the fields of a ThingSpeak channel.
   Parameters are provided to enter the field values for each respective field as well as the mandatory WRITE API KEY. Additionally there are quite a few optional parameters like status,elevation etc. as well as info on the HTTP response.Output is a string containing text,json or xml depending on the chosen format. To gain a better understanding of the optional parameters as well as the response you can check the link provided below.\
 <https://www.mathworks.com/help/thingspeak/writedata.html>
   
-**2.Get Latest Field Entry**\
+**2. Get Latest Field Entry**\
 This activity can be used to used to retrieve the most recent/latest data upload to a single ThingSpeak field.
 Requires channel ID as a mandatory input as well as READ API KEY if you want to read from a private channel. For a public channel only channel ID is the mandatory input. Additionally user can choose which field to retrieve data from, by using a drop down list. Optional parameters for data retrieval like location,offset etc. are provided. Output is a string containing text,json,xml or csv depending on the chosen format.Reference link provided below.\
 <https://www.mathworks.com/help/thingspeak/readlastfieldentry.html>
 
-**3.Get Latest Channel Feed**\
+**3. Get Latest Channel Feed**\
 This activity can be used to used to retrieve the most recent/latest data upload to a ThingSpeak channel. 
 The data upload could be more 1 or more number of fields belonging to the channel.Requires channel ID as a mandatory input as well as READ API KEY if you want to read from a private channel. For a public channel only channel ID is the mandatory input. Optional parameters for data retrieval like location,offset etc. are provided. Output is a string containing json,xml or csv depending on the chosen format.Reference link provided below.\
 <https://www.mathworks.com/help/thingspeak/readlastentry.html>
 
-**4.Get Field Data**\
+**4. Get Field Data**\
 This activity allows you to read data from a single field of a ThingSpeak channel.
 Requires channel ID as a mandatory input as well as READ API KEY if you want to read from a private channel.For a public channel only channel ID is the mandatory input. Additionally user can choose which field to retrieve data from, by using a drop down list . Optional parameters for data retrieval like average,callback,days etc. are provided. Output is a string containing json, xml or csv depending on the chosen format.Reference link provided below for more information.\
 <https://www.mathworks.com/help/thingspeak/readfield.html>
 
-**5.Get Channel Data**\
+**5. Get Channel Data**\
 This activity allows you to read data from all fields of a ThingSpeak channel.
 Requires channel ID as a mandatory input as well as READ API KEY if you want to read from a private channel. For a public channel only channel ID is the mandatory input. Optional parameters for data retrieval like average,callback,days etc. are provided. Output is a string containing json, xml or csv depending on the chosen format. Reference link provided below for more information.\
 <https://www.mathworks.com/help/thingspeak/readdata.html>
 
-**6.Get Last Status**\
+**6. Get Last Status**\
 This activity is used to read the last status of a channel.
 Requires channel ID as a mandatory input as well as READ API KEY if you want to read from a private channel. For a public channel only channel ID is the mandatory input.Output is a string containing json, xml or csv depending on the chosen format. Reference link provided below for more information.\
 <https://www.mathworks.com/help/thingspeak/readlaststatus.html>
 
-**7.Get Status**\
+**7. Get Status**\
 This activity is used to read status field of a channel.
 Requires channel ID as a mandatory input as well as READ API KEY if you want to read from a private channel. For a public channel only channel ID is the mandatory input.Output is a string containing json,xml or csv depending on the chosen format. Reference link provided below for more information.\
 <https://www.mathworks.com/help/thingspeak/readstatus.html>
