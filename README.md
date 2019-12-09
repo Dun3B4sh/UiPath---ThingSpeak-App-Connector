@@ -1,6 +1,10 @@
 # UiPath---ThingSpeak-App-Connector
 This is an IoT package featuring UiPath Activities to read and write data to/from channels of the IoT platform ThingSpeak.This repository contains the Visual Studio project , DLL file ,NuGet Package and the video links required for submission in the 'App Connector' category of the UiPath PowerUp Automation hackathon. Additionally, I have also added the workflow I used in the demo video.
 
+## Link to Published Project hosted on UiPath Go! Repository
+
+<https://go.uipath.com/component/thingspeak-iot-connector>
+
 ## Demo Video Links
 
 <https://www.youtube.com/watch?v=kTLHGmw-D2k>  
