@@ -3,7 +3,7 @@ This is an IoT package featuring UiPath Activities to read and write data to/fro
 
 ## Link to Published Project hosted on UiPath Go! Repository
 
-<https://go.uipath.com/component/thingspeak-iot-connector>
+<https://marketplace.uipath.com/listings/thingspeak-iot-connector>
 
 ## Demo Video Links
 
